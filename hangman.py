@@ -58,28 +58,28 @@ dictionnaire = [
 
 # PARTIE 2 =======================================================
 
-# Initialiser vos variables
+# TODO: Initialiser vos variables
 
-# Sélectionner un mot aléatoire à faire deviner dans la liste des noms féminins
+# TODO: Sélectionner un mot aléatoire à faire deviner dans la liste des noms féminins
 
-# Tant que le mot n'est pas deviné et qu'il reste des vies:
+# TODO: Tant que le mot n'est pas deviné et qu'il reste des vies:
 
-    # Afficher les lettres devinées à date
-    # Demander à l'utilisateur de deviner une lettre
+    # TODO: Afficher les lettres devinées à date
+    # TODO: Demander à l'utilisateur de deviner une lettre
 
-    # SI la lettre a déjà été essayée
-        # Dire à l'utilisateur de recommencer
+    # TODO: SI la lettre a déjà été essayée
+        # TODO: Dire à l'utilisateur de recommencer
 
-    # SINON S'il s'agit d'un bon essai
-        # ajouter la lettre aux lettre essayées
-        # Calculer le mot qu'il a deviné jusqu'à présent
-        #  Dire bravo à l'utilisateur et lui montrer le mot
+    # TODO: SINON S'il s'agit d'un bon essai
+        # TODO: ajouter la lettre aux lettre essayées
+        # TODO: Calculer le mot qu'il a deviné jusqu'à présent
+        # TODO: Dire bravo à l'utilisateur et lui montrer le mot
 
-    # SINON (c'est un mauvais essai)
-        # ajouter la lettre aux lettre essayées
-        # enlever une vie
-        # dire à l'utilisateur il lui reste combien de vies
+    # TODO: SINON (c'est un mauvais essai)
+        # TODO: ajouter la lettre aux lettre essayées
+        # TODO: enlever une vie
+        # TODO: dire à l'utilisateur il lui reste combien de vies
 
 
-# En sortant de la boucle principale, SI l'utilisateur n'a plus de vies, c'est quil a perdu
-# SINON il a gagné :)
+# TODO: En sortant de la boucle principale, SI l'utilisateur n'a plus de vies, c'est quil a perdu
+# TODO: SINON il a gagné :)
