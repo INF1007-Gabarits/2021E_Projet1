@@ -73,3 +73,7 @@ message = sep.join(liste) # message = a###b###c
 
 ![reussi](ex_reussi.png)
 ![echec](ex_echec.png)
+
+## Pour aller plus loin
+
+Juste si ça vous intéresse :) Une fois que vous aurez complété le TP, pour vous pratiquer à développer des programmes, vous pourriez essayer de le refaire à partir d'un fichier vide (sans la structure en commentaires). Si vous aimez programmer des jeux, vous avez déjà le savoir nécessaire pour programmer des _rpg text-based console games_ simples. Sinon, vous pourriez essayer de programmer un jeu qui fait deviner à l'utilisateur un nombre en lui disant si ses essais sont plus grands ou petits que le nombre cible.
