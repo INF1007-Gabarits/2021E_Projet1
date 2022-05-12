@@ -1,7 +1,6 @@
 # PROJET 1
 
-#### :alarm_clock: [Date de remise le jeudi 27 mai 2021 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210527T2359&p0=165&font=cursive&csz=1)
-
+#### :alarm_clock: [Date de remise le dimanche 29 mai 2022 à 23h59]
 ## Objectif
 
 Ce TP a pour objectif de vous introduire à l'algorithmie avec le langage de programmation Python. Celui-ci est composé du fichier hangman.py que vous devrez compléter. On veut que vous soyez capables d'écrire vos propres programmes, donc ce projet vous demandera d'être autonomes dans votre démarche et de bien vérifier la qualité de votre code.
